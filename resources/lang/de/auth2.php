@@ -15,5 +15,6 @@ return [
 
     'failed' => 'Diese Anmeldeinformationen entsprechen nicht unseren Aufzeichnungen.',
     'throttle' => 'Zu viele login-versuche. Bitte versuchen Sie es erneut in :Sekunden Sekunden.',
+    'crocodile' => 'Krokodil Kaninchen',
 
-];
+]; 

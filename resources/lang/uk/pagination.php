@@ -14,6 +14,6 @@ return [
     */
 
     'previous' => 'ababagalamaga',
-    'next'     => 'Next &raquo;',
+    'next'     => 'Наступний &raquo;',
 
 ];

@@ -14,7 +14,7 @@ return [
     */
 
     'failed' => 'Ці облікові дані не співпадають з нашими записами.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'throttle' => 'Занадто багато спроб входу. Будь ласка, спробуйте знову секунд секунд.',
     'crocodile' => 'crocodile rabbit',
 
 ];

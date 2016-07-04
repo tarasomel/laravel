@@ -1,4 +1,4 @@
 files:
   - 
-    source: '/**/cache/'
+    source: '/**/lang/en/*.php'
     translation: '%original_path%/%original_file_name%'

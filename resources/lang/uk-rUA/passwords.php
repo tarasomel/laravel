@@ -13,10 +13,10 @@ return [
     |
     */
 
-    'password' => 'Пароль повинен містити не менше шести символів і відповідати тому підтвердження.',
-    'reset' => 'Ваш пароль скинутий!',
-    'sent' => 'У нас є по електронній пошті посилання на відновлення пароля!',
-    'token' => 'Цей пароль скидання маркера є недійсним.',
-    'user' => "Ми не можемо знайти користувача з адресою електронної пошти.",
+    'password' => 'Passwords must be at least six characters and match the confirmation.',
+    'reset' => 'Your password has been reset!',
+    'sent' => 'We have e-mailed your password reset link!',
+    'token' => 'This password reset token is invalid.',
+    'user' => "We can't find a user with that e-mail address.",
 
 ];

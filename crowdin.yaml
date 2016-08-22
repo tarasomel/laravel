@@ -2,3 +2,6 @@ files:
   - 
     source: '/**/lang/en/*.php'
     translation: '/**/lang/%android_code%/%original_file_name%'
+  - 
+    source: '/app/*.*'
+    translation: '/app/%two_letters_code%/%original_file_name%'

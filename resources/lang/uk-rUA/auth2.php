@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
+    'failed' => 'Ці облікові дані не співпадають з нашими записами.',
     'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
     'crocodile' => 'crocodile rabbit',
 

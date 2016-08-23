@@ -13,8 +13,8 @@ return [
     |
     */
 
-    'failed' => 'Essas credenciais não coincidir com os nossos registros.',
-    'throttle' => 'Muitas tentativas de login. Por favor, tente novamente em :segundos.',
-    'crocodile' => 'crocodilo coelho',
+    'failed' => 'These credentials do not match our records.',
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'crocodile' => 'crocodile rabbit',
 
 ];
